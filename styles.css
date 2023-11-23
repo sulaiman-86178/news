@@ -39,11 +39,12 @@ a{
   /* font-size: 20px; */
   font-style: normal;
 }
-@media(max-width:600px){
+@media(max-width:500px){
   .image{
-    float: left;
+    float:left;
     position: relative;
     bottom: 450px;
+
 
   }
 
